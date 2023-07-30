@@ -4,7 +4,7 @@
 
 # DO NOT CHANGE THIS VALUE. The deploy script relies on the site being deployed to the
 # "site" directory.
-name = "site"
+name = "早安，歡迎｜陳泰亨"
 
 # This page should be the root of your website. It's important.
-page = "<your Notion share URL here>"
+page = "https://accessible-dog-ab2.notion.site/96d2649f553347b7b784cfbc5cfe4d07?pvs=4"
